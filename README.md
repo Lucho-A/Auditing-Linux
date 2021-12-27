@@ -7,8 +7,4 @@ The following image correspond to a full version of the program, that incorporat
 
 <sup><sup>1</sup> Incoporating more than 250 controls (Low, Medium, and High grading).</sup>
 
-![image](https://user-images.githubusercontent.com/40904281/147423603-849b7ac8-968f-438b-9d4c-42edf0339baf.png)
-
-![image](https://user-images.githubusercontent.com/40904281/147423626-9d041c6c-7b77-4fc2-bc02-611327b67f80.png)
-
-
+![image](https://user-images.githubusercontent.com/40904281/147505943-64a1003c-7cbf-4665-a92e-a16a129effbe.png)
