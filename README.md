@@ -1,5 +1,5 @@
 # Auditing-Linux-Minimal
-***(Under development)*** Script for auditing Linux systems (in particular Red Hats) in C, Ansi-style, that incorporate a MySQL schema with controls & testings. The design of controls were performed in basis to "Red Hat Enterprise Linux 7 Security Technical Implementation Guide" (https://www.stigviewer.com/stig/red_hat_enterprise_linux_7/).
+Script for auditing Linux systems (in particular Red Hats) in C, Ansi-style, that incorporate a MySQL schema with controls & testings. The design of controls were performed in basis to "Red Hat Enterprise Linux 7 Security Technical Implementation Guide" (https://www.stigviewer.com/stig/red_hat_enterprise_linux_7/).
 
 This is a minimal/example version that provided only the MySQL schema with "Low" grading findings. For in-deep version, as well, for others systems/plattforms (Cybersecurity, Oracle, MySQL, SAP HANA, AIX, among others), pls, contact me! (luis.alfie@gmail.com)
 
